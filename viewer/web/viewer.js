@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'InformationInteractivityandSocialMedia_ArielAvidar.pdf',
+    value: '.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
