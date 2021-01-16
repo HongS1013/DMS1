@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: '.pdf',
+    value: 'information_interaction.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
