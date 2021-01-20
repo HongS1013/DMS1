@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'information_interaction.pdf',
+    value: 'DMS.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
